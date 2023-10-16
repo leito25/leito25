@@ -20,7 +20,7 @@
 - Python for data processing
 
 ## Active Projects 🔥
-- [HTML GAME](https://github.com/luisquid/todo-crt-game](https://github.com/leito25/BrowserQuest) 
+- [HTML GAME](https://github.com/leito25/BrowserQuest) 
 
 
 
