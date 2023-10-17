@@ -21,9 +21,9 @@
 - WebDev dotNet
 
 ## Active Projects 🔥
-- [Level Editor Unity](https://gitlab.com/leito25/levelmakerunity){:target="_blank"}
-- [Digital 3D Animation Samples](https://vimeo.com/leocgdigital){:target="_blank"}
-- [Animation Maya to Unity Process](https://www.youtube.com/watch?v=dIZ8IZTh6c8&t=1s){:target="_blank"}
+- [Level Editor Unity](https://gitlab.com/leito25/levelmakerunity)}
+- [Digital 3D Animation Samples](https://vimeo.com/leocgdigital)
+- [Animation Maya to Unity Process](https://www.youtube.com/watch?v=dIZ8IZTh6c8&t=1s)
 
 
 
