@@ -1,6 +1,6 @@
 ### Hi there I'm LEO 👋
 
-<br>I love to create interactive experiences, I consider myself a craftsman and that is why I've been working in many areas related to software engineering and interactive experiences like games, simulation, and technology-based art.
+<br>I love to create interactive experiences. I consider myself a craftsman, which is why I've worked in many areas related to software engineering and interactive experiences, such as games, simulation, and technology-based art.
 
 <a href="https://www.facebook.com/LeoQCGProfile">
 <img align="right" height="auto" width="200" src="https://github.com/leito25/leito25/blob/main/img/LQLogo.png"/>
