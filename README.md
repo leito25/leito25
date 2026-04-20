@@ -8,20 +8,21 @@
 
 
 ## Skills 🧰
-- C# and C++ programming, computer graphics and shaders
-- 3D Modelling, Rigging, and Animation (Maya. Blender, 3DStudio Max, and Cinema4D)
-- UI/UX Design and Implementation, Photoshop, Illustrator and Unity
+- C# and C++ programming, gameplay, computer graphics, and shaders
+- 3D Modeling, Rigging, and Animation (Maya, Blender, 3DStudio Max, and Cinema4D)
+- UI/UX Design and Implementation, Photoshop, Illustrator, and Unity
 - Unity, Unreal
 - Public speaking and teaching
 - Project and team management
 - Git and CICD
-- 3D Animation for games and videogames
-- Artificial Intelligence for videogames
-- Python for data processing
+- 3D Animation for games and video games
+- Artificial Intelligence for video games
+- Python for data processing and games with PyGame
 - WebDev dotNet
 
 ## Active Projects 🔥
 - <a href="https://github.com/leito25/CSRGFeature" target="_blank">Unity Rendergraph Compute Shader Pass Sample</a>
+- <a href="https://gitlab.com/leito25/playables-samples" target="_blank">Unity Playables Tech Animation Samples</a>
 - <a href="https://gitlab.com/leito25/levelmakerunity" target="_blank">Level Editor Unity</a>
 - <a href="https://vimeo.com/leocgdigital" target="_blank">Digital 3D Animation Samples</a>
 - <a href="https://www.youtube.com/watch?v=dIZ8IZTh6c8&t=1s" target="_blank">Animation Maya to Unity Process</a>
