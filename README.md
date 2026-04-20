@@ -22,7 +22,7 @@
 
 ## Active Projects 🔥
 - <a href="https://github.com/leito25/CSRGFeature" target="_blank">Unity Rendergraph Compute Shader Pass Sample</a>
-- <a href="https://github.com/leito25/typesRTHandles" target="_blank">Unity Rendergraph Render Texture types</a>
+- <a href="https://github.com/leito25/typesRTHandles" target="_blank">Unity Rendergraph Render Texture Handle Types</a>
 - <a href="https://gitlab.com/leito25/playables-samples" target="_blank">Unity Playables Tech Animation Samples</a>
 - <a href="https://gitlab.com/leito25/levelmakerunity" target="_blank">Level Editor Unity</a>
 - <a href="https://vimeo.com/leocgdigital" target="_blank">Digital 3D Animation Samples</a>
